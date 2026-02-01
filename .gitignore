@@ -23,3 +23,8 @@ models/
 checkpoints/
 .cache/
 huggingface/
+
+
+#Data
+wiki_full_dataset/
+vector_db/
