@@ -40,6 +40,7 @@ Linux / macOS: `source venv/bin/activate`
 
 Calling this file with the code will download the GPT-2 model (via Hugging Face Transformers) 
 and its tokenizer to your machine once and cashed locally. 
+
 3. Run `embedding_model_loader.py`. 
 
 Calling this file will download `all-MiniLM-L6-v2` (SentenceTransformers) embedding model. 
